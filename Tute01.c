@@ -5,7 +5,8 @@
 #include <stdio.h>
 
 int main() {
-  printf("sachi");
+  printf("Hello world");
+  
   return 0;
 }
 
